@@ -1,0 +1,13 @@
+body{font-size:16px;font-family:Arial}
+nav{background:#add8e6;}
+nav .menu{margin:0;padding:0;}
+nav .menu li{display:inline-block;}
+nav .menu li a{color:#fff;padding:0 .2em;margin:0 .5em;display:block;text-decoration:none}
+header{background:#f00;}
+header .logo{background:#fff}
+header .titulo .nombreempresa{padding:0;margin:0}
+.contenedor aside{float:left;background:#ffa500;}
+.contenedor aside li{display:block;}
+.contenedor aside li a{text-decoration:none}
+.contenedor section .presentacion .titulopresentacion{padding:0;margin:0}
+footer{background:#808080}
